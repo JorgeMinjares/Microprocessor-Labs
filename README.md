@@ -10,6 +10,7 @@
 - [Lab 5 - Pulse Width Modulation](https://github.com/JorgeMinjares/Microprocessor-Labs/tree/main/Lab%205%20-%20Pulse%20Width%20Modulation)
 - [Lab 6 - Pulse Width Modulation II](https://github.com/JorgeMinjares/Microprocessor-Labs/tree/main/Lab%206%20-%20Pulse%20Width%20Modulation%20II)
 - [Lab 7 - UART Communication](https://github.com/JorgeMinjares/Microprocessor-Labs/tree/main/Lab%207%20-%20UART%20Communication)
+- [PDFs](https://github.com/JorgeMinjares/Microprocessor-Labs/tree/main/Labs%20PDFs)
 
 ## **Development**
 
